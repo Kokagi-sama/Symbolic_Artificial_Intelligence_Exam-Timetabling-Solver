@@ -1,0 +1,27 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{de~Moura and Bj{\o}rner}{2008}]{DeMoura2008}
+de~Moura, L. and Bj{\o}rner, N. (2008).
+\newblock Z3: An efficient smt solver.
+\newblock In {\em Proceedings of the Theory and Practice of Software, 14th
+  International Conference on Tools and Algorithms for the Construction and
+  Analysis of Systems}, pages 337--340. Springer Berlin Heidelberg.
+
+\bibitem[\protect\astroncite{Jovanović and de~Moura}{2011}]{Jovanovic2011}
+Jovanović, D. and de~Moura, L. (2011).
+\newblock Solving non-linear arithmetic.
+\newblock In {\em Proceedings of the 6th International Joint Conference on
+  Automated Reasoning}, pages 339--354.
+
+\bibitem[\protect\astroncite{M{\"u}ller}{2016}]{Muller2016}
+M{\"u}ller, T. (2016).
+\newblock Real-life examination timetabling.
+\newblock {\em Journal of Scheduling}, 19:257--270.
+
+\bibitem[\protect\astroncite{Nieuwenhuis et~al.}{2006}]{Nieuwenhuis2006}
+Nieuwenhuis, R., Oliveras, A., and Tinelli, C. (2006).
+\newblock Solving sat and sat modulo theories: From an abstract
+  davis–putnam–logemann–loveland procedure to dpll(t).
+\newblock {\em Journal of the ACM (JACM)}, 53(6):937--977.
+
+\end{thebibliography}
