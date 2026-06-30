@@ -3,6 +3,16 @@
 
 This project provides a solution to the exam timetabling problem using Python and the Z3 solver for constraint satisfaction. A graphical user interface (GUI) allows users to select specific problem instances and view results in a user-friendly format.
 
+## Table of Contents
+* [Overview](#overview)
+  * [Features](#features)
+* [Setup and Execution](#setup-and-execution)
+  * [1. Create a Virtual Environment](#1-create-a-virtual-environment)
+  * [2. Install Required Dependencies](#2-install-required-dependencies)
+  * [3. Run the Solver](#3-run-the-solver)
+* [Dependencies](#dependencies)
+* [Notes](#notes)
+
 ## Overview
 The solution uses Python and the Z3 solver to satisfy constraints involved in exam scheduling. A GUI is available to enable users to select instances and see results in real-time. To ensure that the GUI remains responsive, a subprocess approach is implemented to avoid threading issues with Z3, allowing multiple instances to be solved concurrently. Also, an alternative solver made in Ortools is also available to make comparison between solvers' runtime.
 
